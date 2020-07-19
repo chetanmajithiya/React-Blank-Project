@@ -1,10 +1,10 @@
 import React from 'react'
-import logo from '../logo.svg'
+import reactLogo from '../logo.svg'
 
 export const HomeSection = () => {
   return (
     <header className='App-header'>
-      <img src={logo} className='App-logo' alt='logo' />
+      <img src={reactLogo} className='App-logo' alt='logo' />
       <p>
                 Edit <code>src/App.js</code> and save to reload.
       </p>
