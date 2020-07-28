@@ -2,7 +2,7 @@ import React from 'react'
 import reactLogo from '../logo.svg'
 
 export const HomeSection = () => {
-    const externalLink = 'https://reactjs.org'
+  const externalLink = 'https://reactjs.org'
   return (
     <header className='App-header'>
       <img src={reactLogo} className='App-logo' alt='logo' />
